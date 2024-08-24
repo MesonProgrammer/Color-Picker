@@ -10,9 +10,12 @@ A simple color picker application using `tkinter`, `pynput`, and `pyautogui`.
     python main.py
     ```
 
-2. **Pick a Color**: Click the button labeled "Pick Color". Then click on the screen where you want to pick a color. The application will display the selected color as both an RGB value and a HEX value, and the color will also be shown in a colored box.
+2. **Pick a Color**: Click the button labeled "Pick Color". Then click on the screen where you want to pick a color. The application will display the selected color as both an RGB value and a HEX value, and the color will also be shown in a colored box. Here is how the program should look like after selecting a color:
 
-3. **Feedback**: Feel free to give feedback and suggestions!
+    ![image](https://github.com/user-attachments/assets/b5eeca47-496d-467f-b994-bebf0c2c066f)
+
+
+9. **Feedback**: Feel free to give feedback and suggestions!
 
 ## Installation
 
